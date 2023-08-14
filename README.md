@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Ant-Congdon
+- 👀 I’m interested in all all things WordPress and Cyber Security...
+- 🌱 I’m currently learning GIT, Python and a little bit of C#...
+- 📫 How to reach me via email at anthony.congdon@srtafe.wa.edu.au...
+
+<!---
+Ant-Congdon/Ant-Congdon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
